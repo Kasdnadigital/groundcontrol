@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /erropages
+Disallow: /admin
+Disallow: /downloads/files/
+Sitemap:  https://www.groundcontrol.com/us/sitemap_index.xml 

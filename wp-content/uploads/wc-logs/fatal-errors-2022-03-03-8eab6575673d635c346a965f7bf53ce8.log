@@ -1,0 +1,28 @@
+2022-03-03T11:06:41+00:00 CRITICAL syntax error, unexpected ';' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/single-product.php on line 109
+
+2022-03-03T11:29:09+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1687552 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/searchwp/lib/vendor/smalot/pdfparser/src/Smalot/PdfParser/RawData/RawDataParser.php on line 668
+
+2022-03-03T16:08:38+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/taxonomy-product_ranges.php:110
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#3 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/taxonomy-product_ranges.php on line 110
+
+2022-03-03T16:09:47+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/taxonomy-product_ranges.php:110
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#3 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/taxonomy-product_ranges.php on line 110
+
+2022-03-03T16:11:06+00:00 CRITICAL Uncaught Error: Call to a member function get_price() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/taxonomy-product_ranges.php:110
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#3 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/taxonomy-product_ranges.php on line 110
+

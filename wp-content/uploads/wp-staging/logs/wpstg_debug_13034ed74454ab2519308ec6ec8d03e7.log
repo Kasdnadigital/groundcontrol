@@ -1,0 +1,110 @@
+[WP STAGING Shutdown Function][E_ERROR][2022-04-07 16:05:52] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-07 16:48:56] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:01:33] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:06:13] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:10:24] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:14:52] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:21:48] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:26:36] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:31:30] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No
+[WP STAGING Shutdown Function][E_ERROR][2022-04-08 00:35:59] Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown - File: /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php Line: 76 Fatal? Is Fatal Error! Comes from WP STAGING? No

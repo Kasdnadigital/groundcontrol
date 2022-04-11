@@ -1,0 +1,2 @@
+2022-03-07T07:24:31+00:00 CRITICAL Cannot use isset() on the result of an expression (you can use "null !== expression" instead) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/single-product.php on line 189
+

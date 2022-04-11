@@ -1,0 +1,38 @@
+2022-03-30T05:49:59+00:00 CRITICAL syntax error, unexpected '$array' (T_VARIABLE), expecting ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 496
+
+2022-03-30T05:51:44+00:00 CRITICAL syntax error, unexpected '$array' (T_VARIABLE), expecting ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 496
+
+2022-03-30T07:15:36+00:00 CRITICAL syntax error, unexpected ';', expecting ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 478
+
+2022-03-30T08:55:29+00:00 CRITICAL Uncaught Error: Function name must be a string in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:472
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 472
+
+2022-03-30T08:55:38+00:00 CRITICAL Uncaught Error: Function name must be a string in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:472
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 472
+
+2022-03-30T11:53:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1224704 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/searchwp/lib/vendor/smalot/pdfparser/src/Smalot/PdfParser/RawData/FilterHelper.php on line 227
+
+2022-03-30T11:59:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 23229813 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/searchwp/lib/vendor/smalot/pdfparser/src/Smalot/PdfParser/RawData/FilterHelper.php on line 227
+
+2022-03-30T12:01:05+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 528384 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/searchwp/lib/vendor/smalot/pdfparser/src/Smalot/PdfParser/Element.php on line 129
+
+2022-03-30T12:05:46+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/searchwp/lib/vendor/smalot/pdfparser/src/Smalot/PdfParser/PDFObject.php on line 158
+
+2022-03-30T12:06:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1052672 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-includes/wp-db.php on line 1370
+
+2022-03-30T12:10:42+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 1540096 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/searchwp/lib/vendor/smalot/pdfparser/src/Smalot/PdfParser/RawData/RawDataParser.php on line 668
+
+2022-03-30T12:14:28+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 4096 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/searchwp/lib/vendor/smalot/pdfparser/src/Smalot/PdfParser/Element.php on line 115
+

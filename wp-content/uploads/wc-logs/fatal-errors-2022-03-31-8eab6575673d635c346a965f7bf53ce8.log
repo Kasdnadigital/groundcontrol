@@ -1,0 +1,9 @@
+2022-03-31T05:51:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function get_term_link(), 0 passed in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/template-parts/page-hardware.php on line 51 and at least 1 expected in /var/www/html/dna-projects/groundcontrol_new/wp-includes/taxonomy.php:4459
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/template-parts/page-hardware.php(51): get_term_link()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-includes/taxonomy.php on line 4459
+

@@ -1,0 +1,24 @@
+2022-04-07T16:05:52+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php on line 76
+
+2022-04-07T16:48:56+00:00 CRITICAL Uncaught Error: Call to a member function get_cart_contents_count() on null in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php:76
+Stack trace:
+#0 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(770): require_once()
+#1 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template.php(716): load_template()
+#2 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/general-template.php(48): locate_template()
+#3 /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/404.php(1): get_header()
+#4 /var/www/vhosts/groundcontrol.com/htdocs/wp-includes/template-loader.php(106): include('/var/www/vhosts...')
+#5 /var/www/vhosts/groundcontrol.com/htdocs/wp-blog-header.php(19): require_once('/var/www/vhosts...')
+#6 /var/www/vhosts/groundcontrol.com/htdocs/index.php(17): require('/var/www/vhosts...')
+#7 {main}
+  thrown in /var/www/vhosts/groundcontrol.com/htdocs/wp-content/themes/groundcontrol/header.php on line 76
+

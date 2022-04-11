@@ -1,0 +1,4 @@
+2022-03-05T14:27:34+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-includes/meta.php on line 1085
+
+2022-03-05T16:12:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /var/www/html/dna-projects/groundcontrol_new/wp-includes/meta.php on line 1081
+

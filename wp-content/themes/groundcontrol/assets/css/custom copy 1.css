@@ -1,0 +1,115 @@
+@media screen and (max-width: 1280px) and (min-width: 1025px) {
+    body header.site-header .markets-menu .menu-single a, 
+    body header.site-header .solutions-menu .menu-single a {
+        display: block!important;
+    }
+}
+.single-post .gform_wrapper .gform_body .gform_fields .gfield .ginput_container input ,
+.woocommerce form .form-row input.input-text
+{
+    border: 1px solid gray !important;
+}
+.top-col-3 span.right {margin-right: 7px;}
+.top-col-3 span.left {margin-left: 7px;}
+.woocommerce-checkout .wrapper .woocommerce .woocommerce-form-login input
+{
+    border: 1px solid gray;
+}
+.single-faq.faq-open .title-container
+{
+    margin-bottom: 0px !important;
+}
+.single_variation_wrap {
+    clear: both;
+}
+.modal.footer-module-modal .modal-wrapper,
+.modal.product-enquire .modal-wrapper {height: calc(100% - 100px); margin: 50px auto;}
+.woocommerce-multi-currency.wmc-price-switcher .wmc-sub-currency {top: 45px;}
+.woocommerce ul#shipping_method li input {display: inline-block; width: auto; }
+body.woocommerce-checkout .wrapper .woocommerce #shipping_method li {line-height: inherit;}
+body.woocommerce-checkout .wrapper .woocommerce #shipping_method li:last-child {margin: 0px;}
+body.woocommerce-checkout .wrapper .woocommerce #shipping_method li label {vertical-align: top;}
+.woocommerce-checkout .woocommerce-error:before {line-height: 35px; }
+.woocommerce-checkout .woocommerce-error li {padding-left: 35px !important;}
+body.archive.woocommerce-js .template-inner .filter-bar .left-categories a.button,
+body.blog.woocommerce-js .template-inner .filter-bar .left-categories a.button {margin-bottom: 15px;}
+header.site-header .menu-container .top-level .upper-level.mobile-cart-icon {display: block; position: absolute; right: 60px; top: 0px; margin: 0px; width: auto; padding: 0px;}
+
+header.site-header { padding-bottom: 0 !important; }
+header.site-header .container { position: static; }
+header.site-header .menu-container .bottom-level ul li .submenu { display: none; bottom: auto !important; top: 100%; }
+header.site-header .menu-container .bottom-level ul li:hover .submenu { display: block; }
+header.site-header .menu-container .bottom-level ul li { float: right; padding-bottom: 24px; }
+
+body { overflow-x: hidden; }
+.woocommerce-error::before  {display: none;}
+
+.single-post .template-inner .container .content h1, .single-post .template-inner .container .content h2, .single-post .template-inner .container .content h3, .single-post .template-inner .container .content h4, .single-post .template-inner .container .content h5, .single-post .template-inner .container .content h6 {
+    color: #ef7b78;
+}
+
+@media screen and (min-width: 1000px) {
+header.site-header .menu-container .top-level .upper-level.mobile-cart-icon {display: none;}
+}
+@media screen and (min-width: 800px) {
+.address-cards .address-card-holder .address-card  {position: relative;}
+.address-cards .address-card-holder .address-card .address-block {position: absolute; bottom: 40px; left: 45px; right: 45px;}
+}
+@media screen and (max-width: 1199px) and (min-width: 800px) {
+.address-cards .address-card-holder .address-card .address-block {left: 20px; right: 20px;} 
+}
+
+@media screen and (max-width: 1000px) {
+body.menu-open header.site-header { padding-top: 0; }
+body.menu-open header.site-header > .container { position: relative; background: #323552; z-index: 111; padding-top: 24px; width: calc(100% - 17px); margin: 0;}
+body.menu-open header.site-header .menu-container .top-level .upper-level.mobile-cart-icon { visibility: hidden; opacity: 0; }
+header.site-header .mobile-menu { overflow-x: hidden; padding: 120px 0 92px 0; }
+header.site-header .mobile-menu .lower-menu h2 { position: relative; width: 100%; text-align: left; padding: 10px 20px; line-height: 34px; background-color: #323552; float: none; }
+header.site-header .mobile-menu .lower-menu h2 .arrow { position: absolute; right: 10px; top: 7px; width: 40px; height: 40px; cursor: pointer; }
+header.site-header .mobile-menu .lower-menu h2 .arrow:after { width: 12px; height: 12px; border-right: 2px solid #fff; border-bottom: 2px solid #fff; position: absolute; content: '';
+    left: 50%; top: 50%; margin-left: -6px; margin-top: -12px;
+    -webkit-transform: rotate(45deg); -moz-transform: rotate(45deg); transform: rotate(45deg); -ms-transform: rotate(45deg);
+}
+header.site-header .mobile-menu .lower-menu h2.active .arrow { -webkit-transform: rotate(180deg); -moz-transform: rotate(180deg); transform: rotate(180deg); -ms-transform: rotate(180deg); }
+header.site-header .mobile-menu ul { padding-top: 0 !important; margin-bottom: 0; float: none; }
+header.site-header .mobile-menu ul li { padding: 10px 20px; margin-bottom: 0; float: none; }
+header.site-header .mobile-menu ul li a { text-align: left; line-height: 34px; float: none; }
+header.site-header .mobile-menu .lower-menu { position: static; }
+header.site-header .submenu { position: relative; bottom: auto !important; padding: 30px 0 0 0; }
+header.site-header .submenu .menus .menus-inner { flex-direction: column; }
+header.site-header .submenu .menus .menus-inner .menu-single { margin-bottom: 20px; }
+header.site-header .submenu .menus .menus-inner .menu-single a.archive-link-header { margin-bottom: 0; }
+header.site-header .submenu .menus .menus-inner .menu-single a.archive-link { position: relative; bottom: auto; height: auto; padding-right: 0; }
+header.site-header .submenu .menus .menus-inner .menu-single a.archive-link:after { right: 0; }
+header.site-header .submenu .menus .menus-inner .menu-single .menu-header { height: auto; margin-bottom: 20px !important; }
+header.site-header .submenu .menus .menus-inner .menu-single .menu-header .imageandtext { margin-bottom: 0px; }
+header.site-header .submenu .menus .menus-inner .menu-single .menu-header img.imageandtext { display: none; }
+header.site-header .submenu .menus .menus-inner .menu-single a { display: block !important; }
+}
+
+@media screen and (max-width: 991px) and (min-width: 800px) {
+.address-cards .address-card-holder .address-card .address-block a {font-size: 16px;}
+.template-inner .address-cards .address-card-holder .address-card address { font-size: 16px; line-height: 24px;}
+.template-inner .address-cards .address-card-holder .address-card h2 {font-size: 20px;}
+}
+@media screen and (max-width: 991px) {
+body.archive.woocommerce-js .template-inner .filter-bar .left-categories a.button,
+body.blog.woocommerce-js .template-inner .filter-bar .left-categories a.button  {width: calc(33.33% - 16px); text-align: center; margin-left: 8px; margin-right: 8px;}
+body.archive.woocommerce-js .template-inner .filter-bar .left-categories,
+body.blog.woocommerce-js .template-inner .filter-bar .left-categories {width: 100%;}
+}
+
+@media screen and (max-width: 767px) {
+body.archive.woocommerce-js .template-inner .filter-bar .left-categories a.button,
+body.blog.woocommerce-js .template-inner .filter-bar .left-categories a.button {width: calc(50% - 16px); text-align: center; padding: 10px;}
+.site-body  section.case-studies .wrapper .case-studies-container .studies-container .single-case-study {width: 100%; margin-right: 0px;}
+body.archive.woocommerce-js .template-inner .posts a.single-post,
+body.blog.woocommerce-js .template-inner .posts a.single-post {width: 100%; margin-right: 0px;}
+}
+@media screen and (max-width: 550px) {
+section.page-module.inline-title-and-content.section .wrapper span.module-content {width: 100%;}    
+}
+
+@media screen and (max-width: 400px) {
+header.site-header .mobile-menu { padding: 120px 0 20px 0; }    
+}

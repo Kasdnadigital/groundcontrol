@@ -1,0 +1,63 @@
+2022-03-29T12:23:33+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:546
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 546
+
+2022-03-29T12:23:48+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:546
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 546
+
+2022-03-29T12:23:55+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:546
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 546
+
+2022-03-29T12:23:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:546
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 546
+
+2022-03-29T12:24:14+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:546
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 546
+
+2022-03-29T12:24:15+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:546
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 546
+
+2022-03-29T12:25:33+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php:546
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(303): ajax_cart_update()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-hook.php(327): WP_Hook->apply_filters()
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-includes/plugin.php(470): WP_Hook->do_action()
+#3 /var/www/html/dna-projects/groundcontrol_new/wp-admin/admin-ajax.php(202): do_action()
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 546
+

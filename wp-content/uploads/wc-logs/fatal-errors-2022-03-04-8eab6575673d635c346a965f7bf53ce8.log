@@ -1,0 +1,26 @@
+2022-03-04T06:08:58+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_product_id() in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/single-product.php:246
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#3 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/single-product.php on line 246
+
+2022-03-04T06:09:53+00:00 CRITICAL syntax error, unexpected ')', expecting ';' or ',' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/single-product.php on line 246
+
+2022-03-04T06:10:14+00:00 CRITICAL syntax error, unexpected ')', expecting ';' or ',' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/woocommerce/single-product.php on line 246
+
+2022-03-04T08:00:11+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 468
+
+2022-03-04T08:00:43+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 468
+
+2022-03-04T11:33:15+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/header.php on line 136
+
+2022-03-04T11:33:15+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/header.php on line 136
+
+2022-03-04T11:33:19+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/header.php on line 136
+
+2022-03-04T11:33:21+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/header.php on line 136
+
+2022-03-04T11:33:27+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO), expecting ';' or ',' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/header.php on line 136
+

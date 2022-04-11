@@ -1,0 +1,314 @@
+2022-02-25T05:01:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/dna-projects/groundcontrol_new/wp-includes/post.php on line 826
+
+2022-02-25T05:02:29+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/dna-projects/groundcontrol_new/wp-includes/post-template.php on line 29
+
+2022-02-25T05:02:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/dna-projects/groundcontrol_new/wp-includes/post.php on line 826
+
+2022-02-25T05:04:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/dna-projects/groundcontrol_new/wp-includes/class-wp-query.php on line 3343
+
+2022-02-25T05:04:02+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in /var/www/html/dna-projects/groundcontrol_new/wp-includes/post.php on line 826
+
+2022-02-25T05:04:04+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:04+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:05+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:06+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:08+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:08+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:09+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:10+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:16+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:19+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:19+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:20+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:27+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:31+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:32+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:04:34+00:00 CRITICAL syntax error, unexpected ')' in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom_functions.php on line 452
+
+2022-02-25T05:11:10+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T05:49:08+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T05:53:07+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T05:53:10+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T05:53:11+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T05:53:13+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T05:53:16+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T05:53:19+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T06:18:03+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T06:21:14+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T07:16:11+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T09:43:12+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T10:07:37+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T10:29:29+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T10:31:53+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T10:39:36+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T10:48:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T10:58:57+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T11:05:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T11:31:23+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T11:59:59+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T12:22:58+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-markets.php(37): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T12:46:16+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T12:52:33+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T12:58:30+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T13:12:19+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T13:17:26+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T13:27:42+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+
+2022-02-25T13:34:22+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:977
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 977
+
+2022-02-25T13:49:04+00:00 CRITICAL Uncaught Error: Call to a member function get_price_html() on bool in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php:936
+Stack trace:
+#0 /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/single-solutions.php(49): general_acf_mast_module_featured_product_group()
+#1 /var/www/html/dna-projects/groundcontrol_new/wp-includes/template-loader.php(106): include('/var/www/html/d...')
+#2 /var/www/html/dna-projects/groundcontrol_new/wp-blog-header.php(19): require_once('/var/www/html/d...')
+#3 /var/www/html/dna-projects/groundcontrol_new/index.php(17): require('/var/www/html/d...')
+#4 {main}
+  thrown in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/general_functions.php on line 936
+

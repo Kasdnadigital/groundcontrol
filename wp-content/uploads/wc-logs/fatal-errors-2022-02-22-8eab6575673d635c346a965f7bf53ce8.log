@@ -1,0 +1,12 @@
+2022-02-22T09:36:58+00:00 CRITICAL Cannot redeclare lw_hide_sale_flash() (previously declared in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom-product-badge.php:136) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/wc_hook.php on line 14
+
+2022-02-22T09:37:07+00:00 CRITICAL Cannot redeclare lw_hide_sale_flash() (previously declared in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom-product-badge.php:136) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/wc_hook.php on line 14
+
+2022-02-22T09:37:07+00:00 CRITICAL Cannot redeclare lw_hide_sale_flash() (previously declared in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom-product-badge.php:136) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/wc_hook.php on line 14
+
+2022-02-22T09:37:22+00:00 CRITICAL Cannot redeclare lw_hide_sale_flash() (previously declared in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom-product-badge.php:136) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/wc_hook.php on line 14
+
+2022-02-22T09:37:22+00:00 CRITICAL Cannot redeclare lw_hide_sale_flash() (previously declared in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom-product-badge.php:136) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/wc_hook.php on line 14
+
+2022-02-22T09:37:25+00:00 CRITICAL Cannot redeclare lw_hide_sale_flash() (previously declared in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/custom-product-badge.php:136) in /var/www/html/dna-projects/groundcontrol_new/wp-content/themes/groundcontrol/inc/wc_hook.php on line 14
+
